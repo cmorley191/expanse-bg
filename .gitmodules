@@ -1,0 +1,6 @@
+[submodule "expanse-client"]
+	path = expanse-client
+	url = git@github.com:cmorley191/expanse-client.git
+[submodule "expanse-model"]
+	path = expanse-model
+	url = https://github.com/cmorley191/expanse-model
